@@ -13,7 +13,7 @@ My code factory where I try to either build something unique for the community o
 - 👨‍💻 &nbsp;Read more about my [Kaggle Notebooks for newbies](https://www.kaggle.com/deshwalmahesh/code?userId=3734583&sortBy=voteCount&tab=profile)
 
 
-📕 &nbsp;**Top Open Source achievements so far:**
+📕 &nbsp;**Experience:**
 <!-- BLOG-POST-LIST:START -->
 - [India's only Open Source tool for finance including NSE Live Data, trading, investing, trading algo, strategies and ...... ](https://github.com/deshwalmahesh/NSE-Stock-Scanner)
 - [Object Tracking using `Yolov7` and `DeepSort`](https://github.com/deshwalmahesh/yolov7-deepsort-tracking)
@@ -34,6 +34,4 @@ My code factory where I try to either build something unique for the community o
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/deshwalmahesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11725056/deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deshwal.mahesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keshav11-choudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
