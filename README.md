@@ -7,9 +7,10 @@ Since: `16/07/2022 12:44 PM`
 ##
 My code factory where I try to either build something unique for the community or contribute to someone else's work. "It ain't much but it's honest work" :rofl:
 
-- 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
-- 🌱 &nbsp;Currently improving my skills in: MLOPS, 1-2-3-Deploy
-- 💬 &nbsp;Ask me about anything related to: Python/AI/ML OR Rap/Cinematography/WW2/Football/Basketball
+- 🔭 &nbsp;I am a proactive and achievement-oriented professional offering nearly 4 years of experience in Backend Software Developer, Back-end Development / Software Development with skills in Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding and testing (preparation of test cases along with implementation) to maintenance of proposed applications. 
+- 🌱 &nbsp;I am a forward thinking person with proficiency in Python, Java, Flask, Django, Machine Learning, Computer Vision, Postman, Spring, RestAPI, DevOps CI/CD, PyCharm, Eclipse, Git, AWS Code Commit, Bitbucket, C++, Hibernate, SQL alchemy, PostgreSQL, GWT, NLP, Pytesseract. 
+- 💬 &nbsp;My strength lies in studying state-of-the-art development tools, programming techniques, and computing equipment, participating in educational opportunities, reading professional publications, and maintaining personal networks. 
+Next, we move on to the work experience section. 
 
 📕 &nbsp;**Experience:**
 <!-- BLOG-POST-LIST:START -->
